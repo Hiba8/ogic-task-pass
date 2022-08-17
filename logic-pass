@@ -1,0 +1,5 @@
+Q1
+orig_str = 'Hello , < there'
+new_str = ' '
+for char in orig_str:
+if 
